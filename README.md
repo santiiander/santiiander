@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Santiago Andermatten+" alt="Typing SVG" />
+  <a href="https://www.santianderdev.site/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=38BCAD&center=true&vCenter=true&width=500&height=70&lines=Santiago+Andermatten;Desarrollador+Backend+Python;FastAPI+%7C+Django+%7C+PostgreSQL;De+Argentina+para+el+Mundo" alt="Typing SVG" />
   </a>
 </p>
 
